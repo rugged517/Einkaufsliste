@@ -1,7 +1,7 @@
 #Mein Lebenslauf
 ###*von Simon Lienhard*
 
-![BildVonMir]('/home/simon/GitProjekt/Einkaufsliste/BildVonMir.jpg' "Bild von mir")
+![BildVonMir](http://www.ja-pics.net/images/full/3/9d42183f9a.jpg "Bild von mir")
 
 **Name** Simon Lienhard
 
