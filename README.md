@@ -1,7 +1,7 @@
 #Mein Lebenslauf
 ###*von Simon Lienhard*
 
-![BildVonMir](http://www.ja-pics.net/images/full/3/9d42183f9a.jpg "Bild von mir")
+![BildVonMir](BildVonMir.jpg "Bild von mir")
 
 **Name** Simon Lienhard
 
