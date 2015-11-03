@@ -11,15 +11,15 @@
 
 * scheiße Machen
 * rum lungern
-    *zuhause
-    *draußen
-    *Bushalte
-    *Kirche
-    *Hochschule
+    * zuhause
+    * draußen
+    * Bushalte
+    * Kirche
+    * Hochschule
 
 >Koks und Nutten und Black Jack mit Jake Black
 
 *nach zu lesen unter:*
 
-[Simons-wunderbare-Weihnachten.koksundnutten.com]
+[Simons-wunderbare-Weihnachten.koksundnutten.com](https://Simons-wunderbare-Weihnachten.koksundnutten.com]
 
