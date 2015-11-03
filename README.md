@@ -21,5 +21,5 @@
 
 *nach zu lesen unter:*
 
-[Simons-wunderbare-Weihnachten.koksundnutten.com](https://Simons-wunderbare-Weihnachten.koksundnutten.com]
+[Simons-wunderbare-Weihnachten.koksundnutten.com](https://Simons-wunderbare-Weihnachten.koksundnutten.com)
 
